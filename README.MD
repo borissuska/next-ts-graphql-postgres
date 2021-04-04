@@ -23,6 +23,6 @@ yarn dev
 
 ```
 # pwd: web/
-yarn add apollo-server-micro
+yarn add apollo-server-micro graphql
 ```
 
