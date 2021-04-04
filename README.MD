@@ -19,3 +19,10 @@ cd web
 yarn dev 
 ```
 
+2. Init GraphQL Apollo Server
+
+```
+# pwd: web/
+yarn add apollo-server-micro
+```
+
